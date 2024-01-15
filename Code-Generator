@@ -1,1 +1,6 @@
+local MessageAuthorzieConnected = false
+if MessageAuthorzieConnected == true then
+  local function GetCode ()
 
+  end
+end
